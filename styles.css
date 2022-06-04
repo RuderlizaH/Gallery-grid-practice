@@ -7,14 +7,15 @@ body {
 header {
     background: #fff;
     padding: 10px;
+    
 }
 
 nav {
-    max-width: 1400px;  ;
+    max-width: 1400px;  
     display: grid;
     margin: 0 auto;
     grid-template-columns: repeat(5, 1fr);
-    justify-content: end;
+    text-align: center;
     align-items: center;
 }
 
